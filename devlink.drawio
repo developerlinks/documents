@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T19:24:51.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LJZOZ-y2KXylv_GxPIBk" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T13:52:20.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wMNDwJOLcq_6zQ9Rp6zS" version="21.1.5" type="github">
   <diagram name="第 1 页" id="iro97GxwS_xEUklSWrAa">
-    <mxGraphModel dx="1314" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,6 +185,77 @@
         </mxCell>
         <mxCell id="gQOjVRHfvQnSekosGZ7e-95" value="下载物料，&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;并缓存到本地" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-150" y="1520" width="160" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-55">
+          <mxGeometry y="70" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-10" value="个人信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-55">
+          <mxGeometry x="20" y="393" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-14" value="角色权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-55">
+          <mxGeometry x="20" y="302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-16" value="关注列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-55">
+          <mxGeometry x="20" y="112" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-20" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-55">
+          <mxGeometry x="20" y="206" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DM6NUEkE_TzlCO-Vfbn1-8" target="DM6NUEkE_TzlCO-Vfbn1-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="1770" />
+              <mxPoint x="270" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DM6NUEkE_TzlCO-Vfbn1-8" target="DM6NUEkE_TzlCO-Vfbn1-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1942" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DM6NUEkE_TzlCO-Vfbn1-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="1773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-8" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1743" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DM6NUEkE_TzlCO-Vfbn1-12" target="DM6NUEkE_TzlCO-Vfbn1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DM6NUEkE_TzlCO-Vfbn1-12" target="DM6NUEkE_TzlCO-Vfbn1-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-12" value="物料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1743" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-21" value="标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1743" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="1880" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-48" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-49">
+          <mxGeometry width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-60" value="收藏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-48">
+          <mxGeometry x="420" y="36.5" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-18" value="点赞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-49">
+          <mxGeometry x="145" y="35.588235294117645" width="120" height="38.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-39" value="评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-49">
+          <mxGeometry x="280" y="35.588235294117645" width="120" height="38.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="DM6NUEkE_TzlCO-Vfbn1-45" value="物料分组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DM6NUEkE_TzlCO-Vfbn1-49">
+          <mxGeometry x="10" y="35.588235294117645" width="120" height="38.8235294117647" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
